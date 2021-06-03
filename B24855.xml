@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lord Deputy and Council. Tyrconnell. Whereas we have formerly thought fit to issue our proclamation bearing the date the 11th day of April 1687, and therein pursuant to the power given us the Lord Deputy and Council ...</title>
+            <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24855</idno><idno type="EEBO-CITATION">99886362</idno>
+  <idno type="VID">186620</idno>
+  <idno type="EEBO-PROQUEST">2248538215</idno>
+  
+            <idno type="STC">Wing I986</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[48]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[45]</idno>
+            <idno type="STC">ESTC R225891</idno>
+            <idno type="PROQUEST">ocm99886362</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886362e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24855)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186620)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[48]; C23:1([45])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lord Deputy and Council. Tyrconnell. Whereas we have formerly thought fit to issue our proclamation bearing the date the 11th day of April 1687, and therein pursuant to the power given us the Lord Deputy and Council ...</title>
+                  <author>Ireland. Lord Deputy (1687-1689 : Tyrconnel)</author>
+                  <author>Tyrconnel, Richard Talbot, Earl of, 1630-1691.</author>
+               </titleStmt>
+               <extent>5 sheets ([5] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham assigns of Benjamin Tooke printer to the Kings most excellent Majesty; and are to be sold at the Kings printinghouse on Ormonde-Key, and the Colledge-Arms in Castle-street.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council-chamber in Dublin the 28th day of December. 1688.".</note>
+                  <note>Arms 186.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Hearth-money --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  1688-1689 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:186620:1"/>
+            <head>
+               <figure>
+                  <q xml:lang="frm">DIEV ET MON DROIT</q>
+                  <q xml:lang="frm">HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown and flanked by the English lion and on one side and the Scottish unicorn on the other</figDesc>
+               </figure>
+            </head>
+            <head>BY THE LORD DEPUTY AND COUNCIL.</head>
+            <opener>
+               <signed>TYRCONNELL.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS We have formerly thought fit to issue Our Proclamation bearing date the <hi>11th</hi> day of <hi>April 1687,</hi> and therein pursuant to the power given Vs the Lord Deputy and Council (by the additional Act for the better Ordering and Col<g ref="char:EOLhyphen"/>lecting the Duty arising from Hearths, Firing-places, Stoves, and publick Ovens and Kilns) to Nominate and Appoint such Iustices of the Peace only in and for the several Counties and Cities of this Kingdom, to grant Certificates to poor Widows, according to the purport of the said Additional Act, as are in and by the said Proclamation Nominated and Appointed. And thereby to declare, that all Powers in and by the said Acts, or either of them given to any Iustices of the Peace, other than such as were in the said Proclamation appointed to the purposes aforesaid, should be thereby vacated. And by Our said Proclama<g ref="char:EOLhyphen"/>tion, strictly to charge all Iustices of the Peace, and other persons therein mentioned, to be Aiding and Assisting to the Commissioners of the Revenue, and their under Officers, in the Levying and Collecting the said Duty, up<g ref="char:EOLhyphen"/>on displeasure and other pains as therein are limited and appointed. Which
+<pb facs="tcp:186620:2"/> said Proclamation having not had the intended and wished for Effect, several of the said Iustices so impowred by Vs as aforesaid, being dead or removed since their having been so nominated, and others not nominated, taking upon them to grant Certificates contrary to the true intent and meaning of the said Additional Act, and Our said Proclamation, whereby the said Duty is much decayed, the due Collection thereof greatly obstructed, and His Majesties Re<g ref="char:EOLhyphen"/>venue lessened: For the prevention of which mischiefs for the future, and up<g ref="char:EOLhyphen"/>holding that Branch of His Majesties said Revenue arising from Hearths, <hi>&amp;c.</hi> Pursuant to the Power given Vs by the said Acts, We have again thought fit to publish and declare, and do hereby publish and declare, that no Certificates be granted but to such persons who by the said Acts for settling the said Duty on his Majesty are uncapable thereof. And whereas in the first Act for settling the said Revenue, there is a Proviso contained, that in case any two Iustices of the Peace shall in writing under their hands yearly certifie their belief that the house wherein any person doth inhabit within such County wherin they are Iustices of Peace, is not of greater value than eight shillings <hi>per annum</hi> upon the full improved Rent, and that neither the person so inhabiting, nor any other using the said Messuage, hath, useth or occupieth any Lands or Tenements of their own, or others, of the yearly value of eight shillings <hi>per annum,</hi> nor hath any Lands, Tenements, Goods or Chattels of the value of four pounds in their own possession, or in the possession of any other in trust for them; then in such case, upon such Certi<g ref="char:EOLhyphen"/>ficate made to the Iustices of the Peace of such County at any of their Quar<g ref="char:EOLhyphen"/>ter-Sessions to be held for the same County, and allowed by them; for which Certificate, and allowance, no Fees shall be paid; the person on whose behalf such Certificate is made, shall not be returned by the Constables, or other per<g ref="char:EOLhyphen"/>sons to be assistant to them as aforesaid; and the said House is thereby for that year discharged off and from all Duties by this Act imposed, any thing therein contained to the contrary notwithstanding. Which said last Proviso by the Additional Act for the better ordering and collecting the Revenue ari<g ref="char:EOLhyphen"/>sing by Hearth-money is declared shall be construed to extend only to such Widows as shall produce such Certificates as are therein mentioned, and as to all other persons whatsoever the said Clause is thereby absolutely Re<g ref="char:EOLhyphen"/>pealed. And forasmuch as it is Enacted by the said Additional Act, that it shall and may be lawful for the Lord Lieutenant, Lord Deputy or other Chief Governor or Governors and Councel of this Kingdom for the time be<g ref="char:EOLhyphen"/>ing, from time to time to appoint such persons as they shall think fit to do, execute and perform all and every the matters and things which by the said former Act, or the said last Act are to be done, executed or performed by any Iustice of the Peace, or Clerks of the Peace of this Kingdom, and from and after such appointment, all other persons not thereby appointed, shall be, and are thereby discharged from doing, executing, and performing any matter or thing relating unto the premisses any thing in the said former Act, or the said last Act to the contrary notwithstanding. And whereas we have thought fit hereby to nominate and appoint the several persons in and for the several Counties herein after mentioned, that is to say, in and for the County of <hi>Ca<g ref="char:EOLhyphen"/>therlagh,</hi> Sir <hi>Thomas Butler</hi> Baronet, <hi>John Pincent</hi> Clerke, <hi>John Baggott, Robert Stratford</hi> and <hi>Francis Eustace</hi> Esqs. For the County of <hi>Dublin,</hi> Sir <hi>Thomas Worsop</hi> Kt. and any one of the Chief Commissioners and Go<g ref="char:EOLhyphen"/>vernors of His Majesties Revenue, Doctor <hi>Patrick Gratton, James Grace Councellor at Law, Richard Foster, Daniel Reading, Henry Fearnesly, Je<g ref="char:EOLhyphen"/>remiah Donovan, James Hackett, and Edward Hussy</hi> of <hi>Westown</hi> Esqs.
+<pb facs="tcp:186620:3"/> For the County of <hi>Kildare, Francis Leigh, Charles Moore, John Aylmer, Henry Cooley, John Woogan, William Talbott,</hi> of <hi>Stratton, James Swanton, William Sotheby,</hi> and <hi>William Fitz-Gerald</hi> of <hi>Crookstown</hi> Esqs; For the County of <hi>Kil<g ref="char:EOLhyphen"/>kenny</hi> Sr. <hi>Henry Ponsonby</hi> Kt. <hi>Agmondisham Cuff, John Grace, Ma cus Shee, Caesar Colclough,</hi> and <hi>Lucas Walsh,</hi> Esqs; For the <hi>Kings County, John Baldw<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> Sen. <hi>John Sands, Thomas Moore, Anthony Carroll, Heyward Oxburrough,</hi> and <hi>Richard Handsard</hi> Esqs; For the County of <hi>Longford</hi> Sr, <hi>Thomas Newco<g ref="char:EOLhyphen"/>men</hi> Barronet, <hi>John Kerr</hi> Dean of <hi>Ardagh, William Kennedy, Nicholas Dowdall Fergus Farrell</hi> and <hi>Arthur Bush</hi> Esqs; For the County of <hi>Lowth, Murtagh Magennis, Thomas Bellingham, Richard Bolton, Timothy Armitage, John Babe, Henry Baker, Nicholas Garland,</hi> and <hi>Hugh Garland,</hi> Esqs; For the County of <hi>Meath,</hi> Sr. <hi>Arthur Rawden</hi> Barronet, Sr. <hi>John Dillon,</hi> Sr. <hi>John Fleming,</hi> Sr. <hi>Garret Aylmer</hi> Kts; <hi>Nicholas Cusack, Thomas Bellew, Thomas Loftus, Joseph Pratt, Stafford Leightburn, Robert Longfeild,</hi> and <hi>Henry Draycot,</hi> Esqs; For the <hi>Queens</hi> County, Sr. <hi>Gregory Birne</hi> Barronet, <hi>John Weaver, Thomas Owens, Oliver Walsh, Robert Warringford,</hi> and <hi>Richard Handsard,</hi> Esqs. For the County of <hi>Westmeath,</hi> Sr. <hi>Henry Peirce</hi> Barronet, Sr. <hi>James Leigh,</hi> Kt. <hi>William Hancock, Robert Cooke, George Peyton, George Wilton, Hugh Bowen,</hi> and <hi>Walter Pollard,</hi> Esqs; For the County of <hi>Wexford,</hi> Sr. <hi>Nicholas Loftus,</hi> and Sr. <hi>John Ivory,</hi> Kts. <hi>Francis Harvy, Patrick Colclough, Patrick Lambert, Wal<g ref="char:EOLhyphen"/>ter Talbott, John Fenn,</hi> and <hi>Thomas Crawford,</hi> Esqs; For the County of <hi>Wick<g ref="char:EOLhyphen"/>low, William Hoey, Henry Temple, Humphry Baggaley, John Edwards, John Stockton,</hi> and <hi>John Giles,</hi> Esqs; For the County of <hi>Clare,</hi> Sr. <hi>Donnogh ô Bryen</hi> Barronet, <hi>John mac Nemarra</hi> of <hi>Cratlagh, Samuel Burton, Symon Pur<g ref="char:EOLhyphen"/>don, Giles Vanderlure,</hi> and <hi>Walter Hickman,</hi> Esqs; For the County of <hi>Corke,</hi> Sr. <hi>Emanuell Moore</hi> Barronet, Sr. <hi>Boyle Maynard,</hi> and Sr. <hi>James Cotter,</hi> Kts. <hi>Rowland Davys,</hi> Dean of <hi>Rosse, Boyle Aylworth, Redmond Barry, Bartholomew Purdon,</hi> The Mayo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Recorder of the City of <hi>Corke,</hi> for the time being, the Mayor and Recorder of <hi>Youghall</hi> for the time being, the So<g ref="char:EOLhyphen"/>veraign of <hi>Kinsale</hi> for the time being, The <hi>Portrive alias Provost</hi> of <hi>Bandon,</hi> for the time being, <hi>Arthur Hide, John Folsiett, Epinetus Grosse, Edward Dodsworth, John Longfeild, Cuthbert Wilkinson,</hi> and <hi>David Nagle,</hi> Esqs; For the County of <hi>Kerry,</hi> Sr. <hi>Thomas Crosby</hi> Kt. <hi>Edward Denny, Edward Paine, Rowland Bate<g ref="char:EOLhyphen"/>man, Maurice Hussey, Ambrose Moore</hi> of <hi>Blenagh,</hi> and <hi>Chidley Brookes,</hi> Esqs; For the County of <hi>Lymerick,</hi> Sr. <hi>William King</hi> Kt. <hi>Arthur Ormesby,</hi> Mayor of <hi>Lymerick, Nicholas Muncton, Edward Rice, Charles Oliver, John Leonard, Charles Monck,</hi> and <hi>Thady Quin</hi> Esqs; For the County of <hi>Waterford, Thomas Fitz-Gerald, Richard Christmas, Robert Cooke, Edward May, Martin Peirce,</hi> and <hi>Garrett Wall</hi> alias <hi>Duvall.</hi> For the County of <hi>Gallway,</hi> Sr. <hi>Henry Wadding<g ref="char:EOLhyphen"/>ton</hi> Kt. <hi>John Brown, Francis Foster, Oliver Martin, Francis Blake, James Hudson, John Wootton, Robert French, James Donnellan,</hi> and <hi>Dudley Peirce,</hi> Dean of <hi>Killmacduah,</hi> For the County of <hi>Leitrim,</hi> Sr, <hi>William Gore</hi> Barronet, <hi>Jame King, Henry Crofton, Henry Palmer, Richard Phillips, Bryan Cunningham,</hi> For the County of <hi>Mayo,</hi> Sr. <hi>Henry Bingham,</hi> and Sr. <hi>Arthur Gore,</hi> Kts. <hi>George French, Robert Miller, George Brown, John Bingham, Chr Brennand, John Browne,</hi> and <hi>Francis Blake.</hi> Esqs; For the County of <hi>Roscommon. Arthur St. George, Edmond Donnellan, Henry Dowdal, Iohn Dillon, Thomas Lovelace,</hi> and <hi>Hugh Kelly,</hi> Esqs; For the County of <hi>Sligoe, Humphry Booth, Thomas Grif<g ref="char:EOLhyphen"/>fith, Edward Crofton, Peircey Gething, Phillip Ormsby,</hi> and <hi>Iames French,</hi> Esqs; For the county of <hi>Antrym, Cormuck ô Neile, Iohn mc. Naughten, Daniel mac Daniel, Iohn Lathum, William Lesly, William Shaw, Edward Harrison,</hi> Esqs; For the county of <hi>Ardmagh,</hi> Sr. <hi>Nicholas Atchinson</hi> Barronet, Dr. <hi>Barthol.
+<pb facs="tcp:186620:4"/> Vigers,</hi> Dean of <hi>Ardmagh, Hamlet Obins, Downham Cope, Arthur Brownlow</hi> alias <hi>Chamberlaine</hi> Esqs; <hi>Edward Dixy</hi> Dean of <hi>Killmore,</hi> For the county of <hi>Caven, Samuel Townely, Iohn Maxwell, Iohn Reyly, Francis Hamilton, Francis Whyte, Thomas Coach, William Lowther,</hi> and <hi>Nicholas Westby,</hi> Esqs; For the county of <hi>Donnegall, Francis Carey, Richard Ennott, Peter Benson, Michael Sampson, Thomas whyte, Iames Hamilton, Marcus ô Donnel Terence ô Connelly,</hi> Esqs; For the county of <hi>Downe, William Warring, William Mountgomery, Iames Ferrer, Iohn Hawkins, Randal Brice, Iohn mc. Neale,</hi> Dean of <hi>Down,</hi> and <hi>George Lovell</hi> Clerke, For the County of <hi>Fermanagh,</hi> Sr. <hi>John Humes,</hi> and Sr. <hi>Gerrard Erwin</hi> Baronets, <hi>Gustavus Hamilton, Iames Carey, Abraham Creigh<g ref="char:EOLhyphen"/>ton, Iohn Creighton,</hi> and <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> Magwire</hi> Esqs; For the County of <hi>Londondery,</hi> Sr. <hi>Robert Staples</hi> Barronet, <hi>George Phillips, Iohn Gage, Edward Carey, War<g ref="char:EOLhyphen"/>ham Iemmet,</hi> Esqs; and <hi>Thomas Wallice</hi> Deane of <hi>waterford,</hi> For the County of <hi>Monaghan, William Barton, Nicholas Owens, Francis Lucas, Matthew Anck<g ref="char:EOLhyphen"/>thill,</hi> and <hi>
+                  <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> mc. Mahon</hi> Esqs; For the County of <hi>Tyrone, Henry Mervin, Wil<g ref="char:EOLhyphen"/>liam Moore, George walker, John Chichester, Claud Hamilton, Oliver mac Casland, Walter Hovenden,</hi> and <hi>Patrick Donnelly,</hi> Esqs; For the County of <hi>Tipperary, Nicholas Purcel</hi> Esqr; the Mayor and Recorder of <hi>Clonmel</hi> for the time being, Sr. <hi>Thomas Osburne</hi> Kt. Sr. <hi>John Morris</hi> Barronet, <hi>Thomas Sadler, Thomas Ottway, George Mathews</hi> senior, <hi>Robert Blennerhassett, John Parker, Morris Har<g ref="char:EOLhyphen"/>vey, Iohn Dawson, Phillip Moore,</hi> to be persons for granting Certificates to poor widows, according to the true purport and intent of the said last mentioned Act. Which we do hereby authorise them or any two or more of them and no other person or persons whatsoever within the said respective Countyes to to give accordingly, And further for the County of the City of <hi>Dublin,</hi> We appoint the Mayor and Recorder of the said City for the time being, Sr. <hi>Jo<g ref="char:EOLhyphen"/>shua Allen,</hi> and Alderman <hi>Enoch Reader,</hi> or any two of them. For the Coun<g ref="char:EOLhyphen"/>ty of the City of <hi>Killkenny,</hi> the Mayor or Recorder thereof for the time being, For the County of the Town of <hi>Drogheda,</hi> the Mayor or Recorder of the Town of <hi>Drogheda</hi> for the time being, For the County of the City of <hi>Corke,</hi> the Mayor or Recorder of the said City for the time being, For the county of the City of <hi>Lymerick,</hi> the Mayor or Recorder of the said City for the time be<g ref="char:EOLhyphen"/>ing, For the county of the City of <hi>Waterford,</hi> the Mayor or Recorder of the said City for the time being, For the County of the Town of <hi>Galway,</hi> the Mayor or Recorder of the said Town for the time being, For the County of the Town of <hi>Carrickfergus,</hi> the Mayor or Recorder of the said Town for the time being, And we require all the aforesaid persons to be very Circumspect and carefull in the granting of these Certificates which are to be allowed pub<g ref="char:EOLhyphen"/>lickly at the Quarter Sessions unto none but such as are fitly quallified, and not unto Women who are not Widdows, nor to one and the same Widdow for several Houses, nor to Widdows for the Houses of their Sons, or their Bro<g ref="char:EOLhyphen"/>thers, or Relations, though the same were heretofore done, And we do hereby farther Declare, That all and every the powers in and by the said Acts or either of them given to any Iustices of the Peace, or Clerks of the Peace other than such as are herein appointed to the purposes aforesaid shall be and are hereby vacated.</p>
+            <p>And We do hereby strictly Charge and Command all and every Iustice and Iustices of the Peace, Mayors, Sheriffs, Bayliffs, Constables, Head<g ref="char:EOLhyphen"/>boroughs, Clerks of the Peace, and all other Officers whatsoever within every County, Borough, Town, or Corporation, Barony, Parish, or Place, and all other his Majesties Officers and Ministers, and all other Subjects whatsoever, that they and every of them shall from time to time be
+<pb facs="tcp:186620:5"/> Aiding and Assisting to the said Comissioners and chief Governors of his Ma<g ref="char:EOLhyphen"/>jesties Revenue, and to their Collectors, Surveyors, and other Officers which are or shall be appointed by them, or any three or more of them as aforesaid upon pain of Our displeasure, and such Paines and Imprisonments as by the Laws and Statutes of this Realm, can or may be inflicted upon them for their Negligence or Contempt in that behalf as they will answer the contrary at their utmost Peril. And We do herevy further publish and declare that all Duties or Monyes ariseing or growing due or payable to his Majestie, by, for or upon Hearths, Fireing-places, Stoves and publick Ovens and Kilns, are to be accompted and paid to the Commissioners and chief Governors of his Majesties Revenue or to such as they shall Authorize thereto, and to no other person or persons whatsoever, of which all persons concerned are to take No<g ref="char:EOLhyphen"/>tice and to pay the same accordingly.</p>
+            <p>And We do require all His Majesties Subjects of what quality soever, that they do not only comply with the said Acts of Parliament, by paying their just dues to the Collectors, but also that they respectively encourage the said Collectors in their Employments, they behaving themselves as becometh. And We do further require all Collectors of the said Hearth-money in their respective Districts, to demand the said Duty at the Dwelling-House of each person ten days before they Distrain in any House or Cabbin for the same. And We further Require and Command, that where any objection shall be made by any Collector to the Certificate of any Iustice, such Collector is to forbear molesting or distraining those Widows who have such Certificates, but shall first apply himself to the Iustice of Peace that Granted the same, shewing the cause of his objection. And in case such Iustice after such appli<g ref="char:EOLhyphen"/>cation shall not revoke the said Certificate, or otherwise redress the Complaint of the said Collector, that then he shall and may apply himself to the Iudges of Assizes in their Sessions for that County for their decision and final judg<g ref="char:EOLhyphen"/>ment in all such matters of Controversy.</p>
+            <closer>
+               <dateline>Given at the Council-Chamber in <hi>Dublin</hi>
+                  <date>the 28th day of <hi>December.</hi> 1688.</date>
+               </dateline>
+               <signed>A. Fytton C. Lymerick. Nettirvill. T. Nugent. Stephen Rice. John Davys. Garett Moore. Co. Neale.</signed>
+               <lb/> God Save the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham</hi> Assigns of <hi>Benjamin Tooke</hi> Printer to the Kings Most Excellent Majesty; and are to be Sold at the Kings Printinghouse on <hi>Ormonde-Key,</hi> and the <hi>Colledge-Arms</hi> in <hi>Castle-street.</hi> 1688.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
